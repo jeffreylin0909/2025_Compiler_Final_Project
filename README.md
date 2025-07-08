@@ -11,7 +11,7 @@ This compiler support following feature:
     - `ms`: an integer
     - Sleep for the specified time
   - arguments follow RISC-V calling convention (in a0, a1 registers)
-- Arithmetic Expression: `+`, `-`,`*`, `/`
+- Arithmetic Expression: + - * / % ++ -- < <= > >= == != = && || ! ~ ^ & | >> << ( )
 - single-level pointer
 - branching/loop statements:
   - IF / IF-ELSE Statement
